@@ -1,4 +1,4 @@
-/*{
+{
   "name": "nodejs_1120",
   "version": "1.0.0",
   "description": "this is a nodejs demo project",
@@ -22,28 +22,6 @@
     "url": "https://github.com/hobbyling/nodejs_1120/issues"
   },
   "homepage": "https://github.com/hobbyling/nodejs_1120#readme"
-}*/
-
-{
-  "name": "nodejs_1120",
-  "version": "1.0.0",
-  "description": "",
-  "main": "all.js",
-  "scripts": {
-    "start": "node all.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/hobbyling/nodejs_1120.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/hobbyling/nodejs_1120/issues"
-  },
-  "homepage": "https://github.com/hobbyling/nodejs_1120#readme",
   "dependencies": {
     "express": "^4.14.0"
-  }
 }
