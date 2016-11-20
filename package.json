@@ -25,12 +25,12 @@
 }*/
 
 {
-  "name": "immense-falls-61701",
+  "name": "nodejs_1120",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "all.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node all.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
