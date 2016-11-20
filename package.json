@@ -4,6 +4,7 @@
   "description": "this is a nodejs demo project",
   "main": "all.js",
   "scripts": {
+    "start":"node all.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
